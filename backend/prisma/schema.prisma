@@ -31,7 +31,7 @@ model Projects {
   description  String
   images       String[]
   level        Int
-  type         String
+  kind         String
   emphasis     Boolean        @default(false)
   repository   String
   Technologies Technologies[]

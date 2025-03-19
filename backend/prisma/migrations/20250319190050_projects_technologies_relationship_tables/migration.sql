@@ -1,4 +1,29 @@
 -- CreateTable
+CREATE TABLE "technologies" (
+    "id" SERIAL NOT NULL,
+    "name" TEXT NOT NULL,
+    "description" TEXT NOT NULL,
+    "image" TEXT NOT NULL,
+    "emphasis" BOOLEAN NOT NULL DEFAULT false,
+
+    CONSTRAINT "technologies_pkey" PRIMARY KEY ("id")
+);
+
+-- CreateTable
+CREATE TABLE "projects" (
+    "id" SERIAL NOT NULL,
+    "name" TEXT NOT NULL,
+    "description" TEXT NOT NULL,
+    "images" TEXT[],
+    "level" INTEGER NOT NULL,
+    "kind" TEXT NOT NULL,
+    "emphasis" BOOLEAN NOT NULL DEFAULT false,
+    "repository" TEXT NOT NULL,
+
+    CONSTRAINT "projects_pkey" PRIMARY KEY ("id")
+);
+
+-- CreateTable
 CREATE TABLE "_ProjectsToTechnologies" (
     "A" INTEGER NOT NULL,
     "B" INTEGER NOT NULL,
