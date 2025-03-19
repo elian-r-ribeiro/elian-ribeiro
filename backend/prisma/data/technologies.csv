@@ -1,0 +1,20 @@
+id,name,emphasis,description,image
+1,Python,true,Linguagem de programação interpretada de alto nível.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/python.svg
+2,HTML,false,Linguagem de marcação para estruturação de páginas web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/html.svg
+3,CSS,false,Linguagem de estilos para definição do design e layout das páginas web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/css.svg
+4,JavaScript,false,Linguagem de programação para interatividade em páginas web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/javascript.svg
+5,Ionic,true,Framework de desenvolvimento web.,https://github.com/elian-r-ribeiro/portifolio-assets/raw/main/images/ionic.svg
+6,TypeScript,true,Superset do JavaScript que adiciona tipagem estática.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/typescript.svg
+7,Angular,false,Framework front-end desenvolvido pelo Google.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/angular.svg
+8,Laravel,false,Framework PHP de desenvolvimento web.,https://github.com/elian-r-ribeiro/portifolio-assets/raw/main/images/ionic.svg
+9,MySQL,false,Um sistema de gerenciamento de banco de dados que utiliza a linguagem SQL como interface.,https://github.com/elian-r-ribeiro/portifolio-assets/raw/main/images/mysql.svg
+10,Java,true,Linguagem de programação orientada a objetos.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/java.svg
+11,Vue.js,true,Framework progressivo para construção de interfaces de usuário.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/vue.svg
+12,Flutter,false,Framework para desenvolvimento de aplicativos móveis nativos.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/flutter.svg
+13,C,false,Linguagem de programação compilada de propósito geral.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/c.svg
+14,React,false,Biblioteca JavaScript para construção de interfaces de usuário.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/react.svg
+15,Firebase,false,Plataforma de desenvolvimento de aplicativos móveis e web da Google.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/firebase.svg
+16,GIT,false,É um sistema de controle de versões distribuído.,https://github.com/elian-r-ribeiro/portifolio-assets/raw/main/images/git.svg
+17,GitHub,false,É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.,https://github.com/elian-r-ribeiro/portifolio-assets/raw/main/images/github.svg
+18,NestJS,true,Framework para construção de aplicações back-end em Node.js.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/nest.svg
+19,Next.js,true,Framework React para construção de aplicações web.,https://github.com/portfolio-projetos-dev/assets/raw/main/images/next.svg
